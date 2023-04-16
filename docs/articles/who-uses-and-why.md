@@ -30,4 +30,4 @@ Some of our customers use Zuplo as a smart-routing layer, with each request bein
 
 ## API over BaaS
 
-Some of our smaller customers are choosing to use Backed-as-a-Service (BaaS) solutions like supabase, firebase etc and want to use Zuplo as programmable API-first presentation of their backend. More on this scenario in this [video guide](https://www.youtube.com/watch?v=GJSkbxMnWxE).
+Some of our smaller customers are choosing to use Backend-as-a-Service (BaaS) solutions like supabase, firebase etc and want to use Zuplo as programmable API-first presentation of their backend. More on this scenario in this [video guide](https://www.youtube.com/watch?v=GJSkbxMnWxE).
